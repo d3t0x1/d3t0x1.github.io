@@ -24,7 +24,7 @@ Our team includes some of the world’s top search strategists, with experience 
 
 ### References
 
-* `SparkToro`            : (https://sparktoro.com/blog/queries-clicks-influence-googles-results/)
+* `SparkToro`            : [https://sparktoro.com/blog/queries-clicks-influence-googles-results/](https://sparktoro.com/blog/queries-clicks-influence-googles-results/)
 * `hashmeta`               : (https://www.hashmeta.ai/blog/how-long-tail-keywords-strategically-build-topical-authority)
 * `seozoom`          : (https://www.seozoom.com/pogo-sticking-seo/)
 * `FasterCapital` : (https://fastercapital.com/topics/understanding-the-importance-of-seo-for-crypto-startups.html)
