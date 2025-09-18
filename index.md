@@ -25,12 +25,12 @@ Our team includes some of the world’s top search strategists, with experience 
 ### References
 
 * `SparkToro`            : [https://sparktoro.com/blog/queries-clicks-influence-googles-results/](https://sparktoro.com/blog/queries-clicks-influence-googles-results/)
-* `hashmeta`               : (https://www.hashmeta.ai/blog/how-long-tail-keywords-strategically-build-topical-authority)
-* `seozoom`          : (https://www.seozoom.com/pogo-sticking-seo/)
-* `FasterCapital` : (https://fastercapital.com/topics/understanding-the-importance-of-seo-for-crypto-startups.html)
-* `SEJournal`         : (https://www.searchenginejournal.com/co-citation-co-occurrence-how-important-are-they-for-seo-today/370620/)
-* `Moz`          : (https://moz.com/blog/what-is-branded-search)
-* `WordStream`              : (https://www.wordstream.com/blog/topical-authority)
+* `hashmeta`               : [https://www.hashmeta.ai/blog/how-long-tail-keywords-strategically-build-topical-authority](https://www.hashmeta.ai/blog/how-long-tail-keywords-strategically-build-topical-authority)
+* `seozoom`          : [https://www.seozoom.com/pogo-sticking-seo/](https://www.seozoom.com/pogo-sticking-seo/)
+* `FasterCapital` : [https://fastercapital.com/topics/understanding-the-importance-of-seo-for-crypto-startups.html](https://fastercapital.com/topics/understanding-the-importance-of-seo-for-crypto-startups.html)
+* `SEJournal`         : [https://www.searchenginejournal.com/co-citation-co-occurrence-how-important-are-they-for-seo-today/370620/](https://www.searchenginejournal.com/co-citation-co-occurrence-how-important-are-they-for-seo-today/370620/)
+* `Moz`          : [https://moz.com/blog/what-is-branded-search](https://moz.com/blog/what-is-branded-search)
+* `WordStream`              : [https://www.wordstream.com/blog/topical-authority](https://www.wordstream.com/blog/topical-authority)
 
 ## Results
 
