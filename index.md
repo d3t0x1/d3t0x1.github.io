@@ -5,30 +5,36 @@ layout: default
 ![Banner](assets/9efe6fc00670050f1c9d03fb7b1d7bb5.png)
 
 
-**[MintSignals](https://mintsignals.xyz)** is a search-focused team that helps crypto startups become more discoverable, rank higher in search results, and achieve long-term, sustainable growth. Our work centers on creating lasting signals of interest and trust around a project’s brand and core topics.
+**[MintSignals](https://mintsignals.xyz)** is an 18‑month R&D build: a proven system for accelerating search visibility. We understand what moves search engine algorithms—and we use high‑trust signals to grow momentum and cement topic authority at scale.
 
-## Usage
+**We’re not a typical SEO agency.** We don’t chase trends or follow the rules—we set them. With proprietary technology and a forward-looking approach, we stay ahead of the curve and deliver an edge that others simply can’t match.
 
-You can use this theme with [Jekyll](http://jekyllrb.com/) or simply use it with [GitHub Pages](https://pages.github.com).
-For local usage, simply download [Jekyll](http://jekyllrb.com/) and follow the installation guide for more information. You can download the latest Biscuit from [its Github repository](https://github.com/sblisesivdin/biscuit).
+Our team includes some of the world’s top search strategists, with experience developing methodologies that have sold for multiple seven-figures and proven themselves in some of the most competitive niches online. That’s not a boast—it’s evidence of the expertise we bring to every project.
 
-If you prefer to use GitHub Pages, you do not need to download it, upload files to a new repository, etc., just [fork](https://docs.github.com/en/get-starter/quickstart/fork-a-repo) and use it.
 
-### Files
 
-* `_config.yml`            : Main configuration file.
-* `index.md`               : Website page (for now, this page).
-* `_includes/head.html`    : File to add custom code to `<head>` section.
-* `_includes/scripts.html` : File to add custom code before `</body>`. You can change footer at here.
-* `_sass` folder           : Related scss files can be found at this folder.
-* `css/main.csss`          : Main scss file.
-* `README.md`              : A simple readme file.
+## The System
 
-## Example tag usage
 
-## Header 1
-### Header 2
-#### Header 3
+|  |  |
+| :-- | :-- |
+| **What we do** <br><br>— Promote steady, natural-looking engagement around the brand and core topics through our infrastructure and network.  <br>— Focus first on precise, low-competition terms, then expand to broader and branded searches as momentum builds. <br>— Strengthen preference signals for pages that already appear on page one to increase click share over time. <br/><br/> **Who it’s built for** <br><br>— Ideal for L2s, wallets, exchanges, DeFi protocols, infrastructure/tools, security firms, analytics dashboards, and NFT/gaming ecosystems seeking stronger branded interest and credibility signals. | **What’s included** <br/>— Category alignment: We align the brand with known category leaders so it’s consistently associated with the right topics.  <br>— Long‑tail foundation: Start with highly specific searches, then grow into broader terms and brand + keyword themes. <br>— Brand demand: Ongoing branded engagement to demonstrate familiarity and interest over time.<br /> <br /> **Why it matters**<br> — Consistent interest and engagement help search engines recognize relevance, which can support better visibility for branded and niche queries. <br>— Early traction on specific topics compounds and can lift broader categories later. |
+
+
+
+### References
+
+* `SparkToro`            : (https://sparktoro.com/blog/queries-clicks-influence-googles-results/)
+* `hashmeta`               : (https://www.hashmeta.ai/blog/how-long-tail-keywords-strategically-build-topical-authority)
+* `seozoom`          : (https://www.seozoom.com/pogo-sticking-seo/)
+* `FasterCapital` : (https://fastercapital.com/topics/understanding-the-importance-of-seo-for-crypto-startups.html)
+* `SEJournal`         : (https://www.searchenginejournal.com/co-citation-co-occurrence-how-important-are-they-for-seo-today/370620/)
+* `Moz`          : (https://moz.com/blog/what-is-branded-search)
+* `WordStream`              : (https://www.wordstream.com/blog/topical-authority)
+
+## Results
+
+
 **bold**
 *italic*
 
@@ -39,8 +45,3 @@ import os,time
 print ("Biscuit")
 ~~~
 
-## Licence and Author Information
-
-Biscuit is derived from the currently deprecated theme [Solo](http://github.com/chibicode/solo). The development of Biscuit is maintained by [Sefer Bora Lisesivdin](https://sblisesivdin.github.io).
-
-Biscuit and the previous code, where Biscuit is derived, are distributed with [MIT license](https://github.com/sblisesivdin/biscuit/blob/gh-pages/LICENSE).
