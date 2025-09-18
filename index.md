@@ -5,7 +5,7 @@ layout: default
 ![Banner](assets/9efe6fc00670050f1c9d03fb7b1d7bb5.png)
 
 
-**[Biscuit](http://sblisesivdin.github.io/biscuit)** is a single-page responsive Jekyll theme. This is the simplest and still-good-looking Jekyll theme that you can find. 
+**[MintSignals](https://mintsignals.xyz)** is a search-focused team that helps crypto startups become more discoverable, rank higher in search results, and achieve long-term, sustainable growth. Our work centers on creating lasting signals of interest and trust around a project’s brand and core topics.
 
 ## Usage
 
