@@ -32,10 +32,10 @@ Our team includes some of the world’s top search strategists, with experience 
 * `Moz`          : [https://moz.com/blog/what-is-branded-search](https://moz.com/blog/what-is-branded-search)
 * `WordStream`              : [https://www.wordstream.com/blog/topical-authority](https://www.wordstream.com/blog/topical-authority)
 
-## Results
+## In action <br/>
+![gsc](/assets/gsc-1.png)
 
-
-**Let's Connect** <br/><br/>
+<br/>**Interested? Let's Connect** <br/>
 **on X**: @MintSignals<br/>
 **TG**: @mintsignals<br/>
 **farcaster**: @mintsignals <br/>
