@@ -41,6 +41,10 @@ Our team includes some of the world’s top affiliate marketers, with experience
 
 ![rank](/assets/rank.png)
 
+### Trusted by these high‑growth brands ###
+
+![brands](/assets/30aa.png)
+
 ## FAQ ##
 
 #### What are you doing behind the scenes? ####
