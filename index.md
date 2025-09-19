@@ -43,7 +43,7 @@ Our team includes some of the world’s top search strategists, with experience 
 ## FAQ ##
 
 #### What are you actually doing here? ####
-We promote steady, natural-looking engagement around a brand and its core topics using our private infrastructure, so more people find and choose the project in search over time.
+We promote steady, natural-looking engagement around a brand and its core topics using our private infrastructure, so more people find and choose your project.
 
 #### How long does it need to run to see progress? ####
 Minimum 4 months. Sustained improvements matter more than short spikes; ranking systems look for consistent signals over time, not brief bursts.
