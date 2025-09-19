@@ -37,6 +37,8 @@ Our team includes some of the world’s top search strategists, with experience 
 ## In action <br/>
 ![gsc](/assets/gsc-1.png)
 
+![rank](/assets/rank.png)
+
 ## FAQ ##
 
 #### What are you actually doing here? ####
