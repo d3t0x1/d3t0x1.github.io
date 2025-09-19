@@ -34,7 +34,7 @@ Our team includes some of the world’s top search strategists, with experience 
 * `WordStream`              : [https://www.wordstream.com/blog/topical-authority](https://www.wordstream.com/blog/topical-authority)
 
 
-## In action <br/>
+### Our work in action <br/>
 ![gsc](/assets/gsc-1.png)
 
 
