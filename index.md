@@ -35,7 +35,7 @@ Our team includes some of the world’s top search strategists, with experience 
 ## In action <br/>
 ![gsc](/assets/gsc-1.png)
 
-<br/>**Interested? Let's Connect** <br/>
+<br/>**Contact** <br/>
 **on X**: @MintSignals<br/>
 **TG**: @mintsignals<br/>
 **farcaster**: @mintsignals <br/>
