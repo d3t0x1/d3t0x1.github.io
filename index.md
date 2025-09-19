@@ -13,7 +13,7 @@ Our team includes some of the world’s top search strategists, with experience 
 
 ![div](/assets/b33.png)
 
-### The System ⚙️
+### The System
 
 
 | |  |
