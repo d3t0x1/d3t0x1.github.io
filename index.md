@@ -13,14 +13,14 @@ Our team includes some of the world’s top search strategists, with experience 
 
 ![div](/assets/b33.png)
 
-### The System
+### What we do
 
+➟ Snowball long-tail: We search for ultra-specific long-tail queries to build topical authority and to further establish strong engagement signals. Then we ‘snowball’ and search for broader, higher volume keywords. Think brand name + keyword searches.
+ <br>➟ Strengthen signals for pages that already appear on page one to increase your click share, catapulting your over your competitors. 
+ <br/>➟ Category alignment: We align your brand with known category leaders so it’s consistently associated with the right topics.
+ <br/>➟ Branded Searches: Traditional searches for your brand to further establish user signals and demonstrate demand. 
 
-| |  |
-| :-- | :-- |
-| **What we do** <br>﹌﹌﹌﹌﹌ <br>➟ Promote steady, natural-looking engagement around the brand and core topics through our infrastructure and network.  <br>➟ Focus first on precise, low-competition terms, then expand to broader and branded searches as momentum builds. <br>➟ Strengthen preference signals for pages that already appear on page one to increase click share over time. <br><br/><br/><br/> **Who it’s built for** <br>﹌﹌﹌﹌﹌<br>➟ Ideal for L2s, wallets, exchanges, DeFi protocols, infrastructure/tools, security firms, analytics dashboards, and NFT/gaming ecosystems seeking stronger branded interest and credibility signals.<br> <br><br/>| **What’s included** <br/>﹌﹌﹌﹌﹌<br/>➟ Category alignment: We align the brand with known category leaders so it’s consistently associated with the right topics.  <br>➟ Long‑tail foundation: Start with highly specific searches, then grow into broader terms and brand + keyword themes. <br>➟ Brand demand: Ongoing branded engagement to demonstrate familiarity and interest over time.<br /> <br /> **Why it matters**<br>﹌﹌﹌﹌﹌<br/> ➟ Consistent interest and engagement help search engines recognize relevance, which can support better visibility for branded and niche queries. <br>➟ Early traction on specific topics compounds and can lift broader categories later. |
-
-**TLDR;** Search systems weigh many signals to decide relevance; when users repeatedly choose and engage with a brand’s results, those interactions reinforce that the result is a good match, which can support stronger visibility.
+**TLDR;** Search systems weigh many signals to decide relevance; when users repeatedly choose and engage with a brand’s results, those interactions reinforce that the result is a good match, which supports stronger visibility.
 
 
 ### Resources
