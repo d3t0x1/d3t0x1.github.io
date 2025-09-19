@@ -11,6 +11,9 @@ layout: default
 
 Our team includes some of the world’s top affiliate marketers, with experience developing methodologies that sold for multiple seven figures and proved effective in some of the most competitive niches online. We’re not here to brag; we’re emphasizing the expertise we bring to every project.
 
+### Trusted by these high‑growth brands ###
+
+![brands](/assets/30aa.png)
 
 ![div](/assets/b33.png)
 
@@ -40,10 +43,6 @@ Our team includes some of the world’s top affiliate marketers, with experience
 
 
 ![rank](/assets/rank.png)
-
-### Trusted by these high‑growth brands ###
-
-![brands](/assets/30aa.png)
 
 ## FAQ ##
 
