@@ -35,13 +35,10 @@ Our team includes some of the world’s top search strategists, with experience 
 ## Results
 
 
-**bold**
-*italic*
+**Let's Connect** <br/><br/>
+**on X**: @MintSignals<br/>
+**TG**: @mintsignals<br/>
+**farcaster**: @mintsignals <br/>
+**email**: contact@mintsignals.xyz<br/>
 
-> blockquotes
-
-~~~python
-import os,time
-print ("Biscuit")
-~~~
 
