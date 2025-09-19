@@ -40,5 +40,7 @@ Our team includes some of the world’s top search strategists, with experience 
 **TG**: @mintsignals<br/>
 **farcaster**: @mintsignals <br/>
 **email**: contact@mintsignals.xyz<br/>
-
+<br/>
+<br/>
+<br/>
 
