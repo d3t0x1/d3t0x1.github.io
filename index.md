@@ -9,7 +9,8 @@ layout: default
 
 **We’re not a typical SEO agency.** We don’t rely on industry practices or traditional methods—we use proprietary technology and original strategies to stay ahead and deliver a consistent edge.
 
-Our team includes some of the world’s top search strategists, with experience developing methodologies that have sold for multiple seven-figures and proven themselves in some of the most competitive niches online. That’s not a boast—it’s evidence of the expertise we bring to every project.
+Our team includes some of the world’s top affiliate marketers, with experience developing methodologies that have sold for multiple seven-figures and proven themselves in some of the most competitive niches online. We’re not here to brag; we’re emphasizing the expertise we bring to every project.
+
 
 ![div](/assets/b33.png)
 
