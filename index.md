@@ -20,9 +20,10 @@ Our team includes some of the world’s top search strategists, with experience 
 | :-- | :-- |
 | **What we do** <br>﹌﹌﹌﹌﹌ <br>➟ Promote steady, natural-looking engagement around the brand and core topics through our infrastructure and network.  <br>➟ Focus first on precise, low-competition terms, then expand to broader and branded searches as momentum builds. <br>➟ Strengthen preference signals for pages that already appear on page one to increase click share over time. <br><br/><br/><br/> **Who it’s built for** <br>﹌﹌﹌﹌﹌<br>➟ Ideal for L2s, wallets, exchanges, DeFi protocols, infrastructure/tools, security firms, analytics dashboards, and NFT/gaming ecosystems seeking stronger branded interest and credibility signals.<br> <br><br/>| **What’s included** <br/>﹌﹌﹌﹌﹌<br/>➟ Category alignment: We align the brand with known category leaders so it’s consistently associated with the right topics.  <br>➟ Long‑tail foundation: Start with highly specific searches, then grow into broader terms and brand + keyword themes. <br>➟ Brand demand: Ongoing branded engagement to demonstrate familiarity and interest over time.<br /> <br /> **Why it matters**<br>﹌﹌﹌﹌﹌<br/> ➟ Consistent interest and engagement help search engines recognize relevance, which can support better visibility for branded and niche queries. <br>➟ Early traction on specific topics compounds and can lift broader categories later. |
 
+**TLDR;** Search systems weigh many signals to decide relevance; when users repeatedly choose and engage with a brand’s results, those interactions reinforce that the result is a good match, which can support stronger visibility.
 
 
-### References
+### Resources
 
 * `SparkToro`            : [https://sparktoro.com/blog/queries-clicks-influence-googles-results/](https://sparktoro.com/blog/queries-clicks-influence-googles-results/)
 * `hashmeta`               : [https://www.hashmeta.ai/blog/how-long-tail-keywords-strategically-build-topical-authority](https://www.hashmeta.ai/blog/how-long-tail-keywords-strategically-build-topical-authority)
@@ -36,8 +37,24 @@ Our team includes some of the world’s top search strategists, with experience 
 ## In action <br/>
 ![gsc](/assets/gsc-1.png)
 
+## FAQ ##
 
-<br/>**Contact** <br/>
+#### What are you actually doing here? ####
+We promote steady, natural-looking engagement around a brand and its core topics using our private infrastructure, so more people find and choose the project in search over time.
+
+#### How long does it need to run to see progress? ####
+Minimum 4 months. Sustained improvements matter more than short spikes; ranking systems look for consistent signals over time, not brief bursts.
+
+#### What kind of guarantees can you make? ####
+None. Search is a complicated game. In addition to user engagement, there are many other factors (site quality, competition, links, content & trust), so certain ranking positions aren’t promised.
+
+#### What are your terms? ####
+No refunds post-launch: Setup is bespoke; configurations are not reusable once deployed.
+
+#### Do you work with other industries? ####
+Yes. If you are in the gambling/nutra/adult space we can work with you.
+
+#### How can we get in touch? ####
 **on X**: @MintSignals<br/>
 **TG**: @mintsignals<br/>
 **farcaster**: @mintsignals <br/>
