@@ -5,7 +5,7 @@ layout: default
 ![Banner](assets/9efe6fc00670050f1c9d03fb7b1d7bb5.png)
 
 
-[MintSignals](https://mintsignals.xyz)  was built from 18 months of experimentation and testing: a proven system for accelerating search visibility. We understand what moves search engine algorithms—and we use high‑trust signals to grow momentum and cement topic authority at scale. Simply put: our focus is on user engagement—the kind of signals underscored by [recent leaks](https://sparktoro.com/blog/an-anonymous-source-shared-thousands-of-leaked-google-search-api-documents-with-me-everyone-in-seo-should-see-them/) and the [DOJ’s antitrust case](https://www.searchengineworld.com/fresh-doc-dump-pagerank-navboost-and-rankembed-doj-papers-outline-googles-stack).
+[MintSignals](https://mintsignals.xyz)  was built from 18 months of experimentation and testing: a proven system for accelerating search visibility. We understand what moves search engine algorithms—and we use high‑trust signals to grow momentum and cement topic authority at scale. Simply put: our focus is on user engagement—the kind of signals confirmed by [recent leaks](https://sparktoro.com/blog/an-anonymous-source-shared-thousands-of-leaked-google-search-api-documents-with-me-everyone-in-seo-should-see-them/) and the [DOJ’s antitrust case](https://www.searchengineworld.com/fresh-doc-dump-pagerank-navboost-and-rankembed-doj-papers-outline-googles-stack).
 
 **We’re not a typical SEO agency.** We don’t rely on industry practices or traditional methods—we use proprietary technology and original strategies to stay ahead and deliver a consistent edge.
 
