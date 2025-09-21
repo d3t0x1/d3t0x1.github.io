@@ -71,7 +71,7 @@ Yes. If you are in the gambling/nutra/adult space we can work with you.
 **TG**: @mintsignals<br/>
 **farcaster**: @mintsignals <br/>
 **email**: contact@mintsignals.xyz<br/>
-<br/>
-<br/>
-<br/>
 
+![fresh](/assets/a0.png)
+<br/>
+<br/>
