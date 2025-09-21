@@ -58,10 +58,10 @@ We promote steady, natural-looking engagement around your brand and its core key
 Minimum 4 months. Sustained improvements matter more than short spikes; ranking systems look for consistent signals over time, not brief bursts.
 
 #### What kind of guarantees can you make? ####
-Search is a complicated game. In addition to user engagement, there are many other factors (site quality, competition, links, content & trust), so certain ranking positions are never promised.
+Search is a complicated game. In addition to user engagement, there are many other ranking factors that come into play (site quality, competition, links, content), so we will never make bold claims or promises. 
 
 #### What are your terms? ####
-No refunds post-launch: Setup is bespoke; configurations are not reusable once deployed.
+No refunds post-launch: Setup is bespoke, resource heavy and expensive; configurations are not reusable once deployed.
 
 #### Do you work with other industries? ####
 Yes. If you are in the gambling/nutra/adult space we can work with you.
