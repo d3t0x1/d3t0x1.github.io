@@ -19,13 +19,13 @@ Our team includes some of the world’s top affiliate marketers, with experience
 
 ### What we do
 
- <br/>➟ **Topical Authority:** We signal interest in your brand with well-known industry names so it’s consistently recognized alongside them. Much like the concept of co-citation, this signals that both sites share relevance. As a result, the co-cited sites strengthen their authority, rankings, and visibility in search.
+ <br/>➟ **Topical authority:** We signal interest in your brand with well-known industry names so it’s consistently recognized alongside them. Much like the concept of co-citation, this signals that both sites share relevance. As a result, the co-cited sites strengthen their authority, rankings, and visibility in search.
  
 **➟ Snowball long-tail:** We search for ultra-specific long-tail queries to showcase demand and to further establish strong engagement signals. Then we ‘snowball’ and search for broader, higher volume keywords. Think '**Brand name + Keyword**' searches.
 
 **➟ User interaction signals:** Elevate behavioral signals by improving dwell time and reducing bounces on existing page 1 results.
  
- **➟ Branded Searches:** Increased searches for your brand to further demonstrate demand. 
+ **➟ Branded searches:** Increased searches for your brand to further demonstrate demand. 
 
  ═══════
 
