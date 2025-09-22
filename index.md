@@ -63,7 +63,7 @@ Search is a complicated game. In addition to user engagement, there are many oth
 No refunds post-launch: Setup is bespoke, resource heavy and expensive; configurations are not reusable once deployed.
 
 #### Do you work with other industries? ####
-Yes. If you are in the gambling/nutra/adult space we can work with you.
+Yes. If you are in the Gambling/Nutra/Adult/SMM space we can work with you.
 
 ### How can we get in touch? ###
 **on X**: @MintSignals<br/>
